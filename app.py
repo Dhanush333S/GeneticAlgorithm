@@ -4,7 +4,7 @@ from ypstruct import structure
 import ga
 
 def sphere(x):
-    return sum(x**2)
+    return sum(x**2)+16
 
 
 #problem definition
